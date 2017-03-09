@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489046412 source:d:\visual project code\cb_1211_breakpoint\main.c
+	<stdio.h>
+	<stdlib.h>
+
